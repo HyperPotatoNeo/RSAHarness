@@ -37,7 +37,7 @@ Step 2:  Agg(K=2) --> Gen 0'' --> "final A"
 pip install rsa-harness
 ```
 
-With adapter extras:
+With adapter extras (Only tested with vllm adapter so far!):
 
 ```bash
 pip install "rsa-harness[vllm]"      # local vLLM inference
