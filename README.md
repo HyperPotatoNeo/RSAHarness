@@ -137,10 +137,10 @@ class MyAdapter(BaseAdapter):
 ## Citation
 
 ```bibtex
-@article{venkatraman2025rsa,
-  title={Recursive Self-Aggregation for LLMs},
-  author={Venkatraman, Siddarth and Bae, Juhan and Pineau, Joelle},
-  journal={arXiv preprint arXiv:2509.26626},
-  year={2025}
+@article{venkatraman2025recursive,
+  title = {Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models},
+  author = {Venkatraman, Siddarth and Jain, Vineet and Mittal, Sarthak and Shah, Vedant and Obando-Ceron, Johan and Bengio, Yoshua and Bartoldson, Brian R. and Kailkhura, Bhavya and Lajoie, Guillaume and Berseth, Glen and Malkin, Nikolay and Jain, Moksh},
+  year = {2025},
+  journal = {arXiv preprint arXiv:2509.26626},
 }
 ```
